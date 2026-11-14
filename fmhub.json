@@ -1,0 +1,6 @@
+{
+  "what": "Generative groovebox for electronic music. Seven styles know where their genre puts the notes; Density and Chaos redraw six tracks from that, and every step stays editable. Performance keys: bass cut, automatic build-up, loop rolls. DJ filter, echo, reverb, sidechain, four patterns.",
+  "kinds": ["groove", "drums"],
+  "sounds": "none",
+  "color": "#FFD166"
+}
