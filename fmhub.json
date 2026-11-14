@@ -1,6 +1,11 @@
 {
-  "what": "Generative groovebox for electronic music. Seven styles know where their genre puts the notes; Density and Chaos redraw six tracks from that, and every step stays editable. Performance keys: bass cut, automatic build-up, loop rolls. DJ filter, echo, reverb, sidechain, four patterns.",
-  "kinds": ["groove", "drums"],
+  "what": "Generative groovebox for electronic music. Seven styles know where their genre puts the notes; Density and Chaos redraw six tracks, all editable. Rings view, song mode, Euclidean rhythms, keyboard recording, chance and locks per step, fill, build-up, stutter and tape stop.",
+  "kinds": [
+    "groove",
+    "drums"
+  ],
   "sounds": "none",
-  "color": "#FFD166"
+  "color": "#FFD166",
+  "image": "docs/screen.png",
+  "play": "https://itowers.github.io/DerivaFM1/"
 }

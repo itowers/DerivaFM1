@@ -1,7 +1,7 @@
 {
   "name": "DERIVA",
   "version": "0.3",
-  "identity": "FM-1_92",
+  "identity": "FM-1_31",
   "options": {
     "usb_audio": true,
     "trs_midi": true,

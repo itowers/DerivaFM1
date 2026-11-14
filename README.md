@@ -60,7 +60,7 @@ Com Docker no computador: `./fm1 dev` e abra http://localhost:8000.
 
 ## Antes de publicar no Firmware Hub
 
-- **Identidade**: `firmware.json` usa `FM-1_92`. Confira em <https://thefirmwarehub.com/kb/#ids> se está livre.
+- **Identidade**: `firmware.json` usa `FM-1_31` (o pacote sai como `FM-1_31` + o último dígito da versão menor, por exemplo `FM-1_313` na 0.3).
 - Ponha o link do repositório em `web/index.html` (o link Source) — a licença é GPL-3.0.
 - `fmhub.json` já está na raiz (texto do cartão). Acrescente `author` e, se quiser, `image`.
 - Para o selo "Built from source", o release precisa sair do workflow compartilhado
