@@ -5,7 +5,7 @@ Groovebox generativa de música eletrônica para o M-VAVE FM-1, feita com [foma]
 *A generative groovebox for the M-VAVE FM-1: seven styles know where their genre puts the notes, two knobs
 (density, chaos) redraw six tracks from that knowledge, and every step stays editable by hand.*
 
-**Estado: 0.3, experimental.** O código roda no emulador (compilado para WebAssembly e testado sem interface),
+**Estado: 0.4, experimental.** O código roda no emulador (compilado para WebAssembly e testado sem interface),
 mas ainda **não foi compilado para o chip nem instalado em um FM-1**. Instalar firmware é por sua conta e risco;
 se o FM-1 não ligar, segure OCT- ao ligar (resgate por USB) e instale de novo pela página.
 
@@ -60,7 +60,7 @@ Com Docker no computador: `./fm1 dev` e abra http://localhost:8000.
 
 ## Antes de publicar no Firmware Hub
 
-- **Identidade**: `firmware.json` usa `FM-1_31` (o pacote sai como `FM-1_31` + o último dígito da versão menor, por exemplo `FM-1_313` na 0.3).
+- **Identidade**: `firmware.json` usa `FM-1_31` (o pacote sai como `FM-1_31` + o último dígito da versão menor, por exemplo `FM-1_314` na 0.4).
 - Ponha o link do repositório em `web/index.html` (o link Source) — a licença é GPL-3.0.
 - `fmhub.json` já está na raiz (texto do cartão). Acrescente `author` e, se quiser, `image`.
 - Para o selo "Built from source", o release precisa sair do workflow compartilhado
