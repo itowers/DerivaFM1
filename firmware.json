@@ -1,6 +1,6 @@
 {
   "name": "DERIVA",
-  "version": "0.4",
+  "version": "0.5",
   "identity": "FM-1_31",
   "options": {
     "usb_audio": true,

@@ -1,5 +1,5 @@
 {
-  "what": "Generative groovebox for electronic music. Seven styles know where their genre puts the notes; Density and Chaos redraw six tracks, all editable. Rings view, song mode, Euclidean rhythms, keyboard recording, chance and locks per step, fill, build-up, stutter and tape stop.",
+  "what": "Generative groovebox for electronic music. 19 styles know where their genre puts the notes; Density and Chaos redraw six tracks of up to 64 steps, all editable. Rings view with the knobs in its corners, an FX guide with 16 effects, tempo that glides between styles, song mode.",
   "kinds": [
     "groove",
     "drums"
